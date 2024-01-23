@@ -11,8 +11,8 @@ Place the CarVsDeer.net.dll file in your FivePD Callouts folder
 Restart FivePD
 
 # Contact Me
-Discord: goose10x
-
+Discord: [Goose10X](https://discord.gg/VKamh4WUV5).
+<br>
 
 
 ![Screenshot 2022-07-20 043706 (1)](https://github.com/Goose10X/FivePD-CarVsDeer/assets/116154238/eceffae3-77b1-4499-8497-987fc80047e9)
